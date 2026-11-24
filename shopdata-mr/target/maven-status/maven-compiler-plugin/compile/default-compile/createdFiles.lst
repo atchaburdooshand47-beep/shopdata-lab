@@ -1,0 +1,7 @@
+fr/master2/bigdata/PairesProduits.class
+fr/master2/bigdata/CaParCategorie$SumReducer.class
+fr/master2/bigdata/PairesProduits$SumCombiner.class
+fr/master2/bigdata/CaParCategorie.class
+fr/master2/bigdata/PairesProduits$BasketMapper.class
+fr/master2/bigdata/CaParCategorie$LineMapper.class
+fr/master2/bigdata/PairesProduits$SupportReducer.class
